@@ -1,7 +1,9 @@
-# Streamlit_Sentiment_Analyser
+# Streamlit Sentiment Analyser
 Streamlit Sentiment Analyzer UI - the user pastes an email, clicks a button, and sees the sentiment instantly
 
-# Streamlit Sentiment Analyser
+# 📧 Streamlit Email Sentiment Analyzer
+A lightweight, fast, and interactive Streamlit-based web app that analyzes the sentiment of any email text you paste into the interface.
+Uses a pretrained **DistilBERT** model to classify sentiment as **Positive**, **Negative**, or **Neutral**.
 
 ## 🚀 Features
 
